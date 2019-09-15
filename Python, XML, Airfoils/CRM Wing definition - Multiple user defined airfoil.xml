@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<WingData>
+	<cols>10</cols>
+	<rows>50</rows>
+	<section>
+		<airfoil file="Section 1 MH_78_0_V2.txt"/>
+		<xle>50</xle>
+		<yle>0</yle>
+		<zle>0</zle>
+		<theta>0</theta>
+		<c>20</c>
+	</section>
+	<section>
+		<airfoil file="NACA0020.txt"/>
+		<xle>52.6171</xle>
+		<yle>3.68</yle>
+		<zle>0</zle>
+		<theta>0</theta>
+		<c>16.91</c>
+	</section>
+	<section>
+		<airfoil file="Section 2 MH_78_1_V2.txt"/>
+		<xle>57.0851</xle>
+		<yle>6.2652</yle>
+		<zle>0</zle>
+		<theta>0</theta>
+		<c>11.5</c>
+	</section>
+	<section>
+		<airfoil file="Section 3 NASA SC(2)-0410.txt"/>
+		<xle>64.8107</xle>
+		<yle>9.03685</yle>
+		<zle>0</zle>
+		<theta>0</theta>
+		<c>4.3</c>
+	</section>
+	<section>
+		<airfoil file="Section 4 NASA SC(2)-0414.txt"/>
+		<xle>71.6626</xle>
+		<yle>20.57685</yle>
+		<zle>0</zle>
+		<theta>0</theta>
+		<c>0.910</c>
+	</section>
+</WingData>
