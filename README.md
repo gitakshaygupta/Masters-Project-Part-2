@@ -8,7 +8,7 @@
 3. **BWB Nastran Mesh:** This folder contains the Nastran mesh on the BWB
 4. **Extra:** This folder contains the python script for extrapolation of airfoil points.
 4. **Presentation & Report:** This folder contains the final presentation and report in both PDF and editable formats.
-5. **Python, XML, Airfoils:** This folder contains the Python script for generating wing aerodynamic geometry, XML for wing definition, and Airfoil files. All of them are updated and can generate a wing with any number of sections & any type of airfoils.
+5. **Python, XML, Airfoils:** This folder contains the Python script for generating wing aerodynamic meshes, XML for wing definition, and Airfoil files. All of them are updated and can generate a wing with any number of sections & any type of airfoils.
 
 > **HOW TO RUN THE CODE:**
 
